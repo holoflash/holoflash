@@ -1,4 +1,3 @@
 Hello!
 
-### GitHub stats
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=holoflash&show_icons=true&theme=react&&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holoflash&theme=material-palenight&count_private=true&hide_border=true&layout=compact)
